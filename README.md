@@ -19,20 +19,23 @@ Maximum Recoverable Volume (MRV) - The total amount of volume above which you st
 
 ## Overview of typical volume landmarks
 
-Body Part      | MV[1] | MEV  | MAV   | MRV  | Frequency/week | Loading
+
+Body Part      | MV[1] | MEV  | MAV   | MRV  | Freq/week | Loading
  ----          | ----  | ---- | ----  | ---- | ----      | ----
-Abs            | 0     | 0    | 16-20 | 25+  | 3-5x      | 8-20 reps
-Back           | 8     | 10   | 14-22 | 25+  | 2-4x      | 6-20 reps
-Biceps         | 5     | 8    | 14-20 | 26+  | 2-6x      | 8-15 reps
-Triceps        | 4     | 6    | 10-14 | 18+  | 2-4x      | 6-15 reps (pressing) 10-20 reps (extension)
-Calves         | 6     | 8    | 12-16 | 20+  | 2-4x      | 60-70% 1RM
-Chest          | 8     | 10   | 12-20 | 22+  | 1.5-3x    | 8-12 reps
-Front Delts    | 0     | 0    | 6-8   | 12+  | 1-2x      | 6-10 reps
-Glutes         | 0     | 0    | 4-12  | 16+  | 2-3x      | 8-12 reps
-Hamstring      | 4     | 6    | 10-16 | 20+  | 2-3x      | 70-85% 1RM
-Quad           | 6     | 8    | 12-18 | 20+  | 1.5-3x    | 8-15 reps
-Rear/Side Delt | 0     | 8    | 16-22 | 26+  | 2-6x      | 10-12 reps
-Traps          | 0     | 0    | 12-20 | 26+  | 2-6x      | 10-20 reps
+Traps          | 0     | 0    | 12-20 | 26+  | 2-6       | 10-20 reps
+Front Delts    | 0     | 0    | 6-8   | 12+  | 1-2       | 6-10 reps
+Rear/Side Delt | 0     | 8    | 16-22 | 26+  | 2-6       | 10-12 reps
+Chest          | 8     | 10   | 12-20 | 22+  | 1.5-3     | 8-12 reps
+Back           | 8     | 10   | 14-22 | 25+  | 2-4       | 6-20 reps
+Biceps         | 5     | 8    | 14-20 | 26+  | 2-6       | 8-15 reps
+Triceps        | 4     | 6    | 10-14 | 18+  | 2-4       | 6-15 reps (pressing) 10-20 reps (extension)
+Forearms       | .     | .    | .     | .    | .         | .
+Abs            | 0     | 0    | 16-20 | 25+  | 3-5       | 8-20 reps
+Glutes         | 0     | 0    | 4-12  | 16+  | 2-3       | 8-12 reps
+Quads          | 6     | 8    | 12-18 | 20+  | 1.5-3     | 8-15 reps
+Hamstring      | 4     | 6    | 10-16 | 20+  | 2-3       | 70-85% 1RM
+Calves         | 6     | 8    | 12-16 | 20+  | 2-4       | 60-70% 1RM
+
 
 [1] when 0, it is assumed you still hit these muscle groups by other compounds (e.g. front delts in bench press)
 
