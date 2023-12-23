@@ -5,6 +5,9 @@
 
 
 ## volume definitions
+[Explanation Article](https://rpstrength.com/blogs/articles/training-volume-landmarks-muscle-growth)
+
+
 Maintenance Volume (MV) - How much volume you need to maintain your gains.
 
 Minimum Effective Volume (MEV) - The least amount of volume needed to make gains.
@@ -37,19 +40,20 @@ Traps          | 0     | 0    | 12-20 | 26+  | 2-6x      | 10-20 reps
 
 
 ## Renaissance periodization (RP) blog posts (last verified: 23-12-2023)
+[Listing of all body parts](https://rpstrength.com/blogs/articles/hypertrophy-training-guide-central-hub)
 
-[Overview](https://rpstrength.com/blogs/articles/training-volume-landmarks-muscle-growth)
 
 From cranial to caudal, if approx. the same height, from anterior to posterior:
-* [Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)
-* [Front Delts](https://renaissanceperiodization.com/front-delt-training-tips-hypertrophy/)
-* [Rear Delts](MISSING)
-* [Chest](https://renaissanceperiodization.com/chest-training-tips-hypertrophy/)
-* [Back](https://renaissanceperiodization.com/back-training-tips-hypertrophy/)
-* [Biceps](MISSING/)
-  [Triceps](MISSING)
-* [Abs](https://renaissanceperiodization.com/ab-training/)
-* [Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)
-* [Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)
-* [Hamstrings](MISSING)
-* [Calves](https://renaissanceperiodization.com/calves-training-tips-hypertrophy/)
+1. [Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)
+1. [Front Delts](https://renaissanceperiodization.com/front-delt-training-tips-hypertrophy/)
+1. [Side delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)
+1. [Rear Delts](https://rpstrength.com/blogs/articles/rear-delt-size-training-tips)
+1. [Chest](https://renaissanceperiodization.com/chest-training-tips-hypertrophy/)
+1. [Back](https://renaissanceperiodization.com/back-training-tips-hypertrophy/)
+1. [Biceps](https://rpstrength.com/blogs/articles/bicep-training-tips-hypertrophy)
+1. [Triceps](https://rpstrength.com/blogs/articles/triceps-hypertrophy-training-tips/)
+1. [Abs](https://renaissanceperiodization.com/ab-training/)
+1. [Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)
+1. [Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)
+1. [Hamstrings](https://rpstrength.com/blogs/articles/hamstring-size-training-tips))
+1. [Calves](https://renaissanceperiodization.com/calves-training-tips-hypertrophy/)
