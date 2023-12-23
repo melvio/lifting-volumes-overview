@@ -16,7 +16,7 @@ Maximum Recoverable Volume (MRV) - The total amount of volume above which you st
 
 ## Overview of typical volume landmarks
 
-Body Part      | MV[1] | MEV  | MAV   | MRV  | Frequency | Loading
+Body Part      | MV[1] | MEV  | MAV   | MRV  | Frequency/week | Loading
  ----          | ----  | ---- | ----  | ---- | ----      | ----
 Abs            | 0     | 0    | 16-20 | 25+  | 3-5x      | 8-20 reps
 Back           | 8     | 10   | 14-22 | 25+  | 2-4x      | 6-20 reps
