@@ -12,7 +12,7 @@ Maintenance Volume (MV) - How much volume you need to maintain your gains.
 
 Minimum Effective Volume (MEV) - The least amount of volume needed to make gains.
 
-MAV = Maximum Adaptive Volume (MAX) - The range of volumes in which you make your best gains. It’s a much more of a range than the other volume landmarks because it changes greatly within each training mesocycle (week to week).
+Maximum Adaptive Volume (MAV) - The range of volumes in which you make your best gains. It’s a much more of a range than the other volume landmarks because it changes greatly within each training mesocycle (week to week).
 
 Maximum Recoverable Volume (MRV) - The total amount of volume above which you start impeding your progress. (i.e. above which you get negative return on investment)
 
