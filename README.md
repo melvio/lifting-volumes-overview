@@ -20,22 +20,23 @@ Maximum Recoverable Volume (MRV) - The total amount of volume above which you st
 [Listing of all body parts](https://rpstrength.com/blogs/articles/hypertrophy-training-guide-central-hub)
 
 
-Body Part                                                                                 | MV[1] | MEV  | MAV   | MRV    | Freq/week | Suggested reps                                 |
-----------                                                                                | ----  | ---- | ----  | ----   | ----      | ----                                    |
-[Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)             | 0     | 0    | 12-20 | 26+    | 2-6       | 10-20                               |
-[Front Delts](https://renaissanceperiodization.com/front-delt-training-tips-hypertrophy/) | 0     | 0    | 6-8   | 12+    | 1-2       | 6-10                                |
-[Side Delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)          | 0     | 8    | 16-22 | 26+    | 2-6       | 10-12                               |
-[Rear Delts](https://rpstrength.com/blogs/articles/rear-delt-size-training-tips)          | 0     | 6    | 16-22 | 25+    | 2-6       | 10-30                               |
-[Chest](https://renaissanceperiodization.com/chest-training-tips-hypertrophy/)            | 8     | 10   | 12-20 | 22+    | 1.5-3     | 8-12                                |
-[Back](https://renaissanceperiodization.com/back-training-tips-hypertrophy/)              | 8     | 10   | 14-22 | 25+    | 2-4       | 6-20                                |
-[Biceps](https://rpstrength.com/blogs/articles/bicep-training-tips-hypertrophy)           | 5     | 8    | 14-20 | 26+    | 2-6       | 8-15                                |
-[Triceps](https://rpstrength.com/blogs/articles/triceps-hypertrophy-training-tips/)       | 4     | 6    | 10-14 | 18+    | 2-4       | 6-15 (presses), 10-20  (extensions) |
-[Forearms](https://rpstrength.com/blogs/articles/forearm-growth-training-tips)            | 0     | 2    | 4-12  | 15-25+ | 2-5       | 5-30                                |
-[Abs](https://renaissanceperiodization.com/ab-training/)                                  | 0     | 0    | 16-20 | 25+    | 3-5       | 8-20                                |
-[Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)           | 0     | 0    | 4-12  | 16+    | 2-3       | 8-12                                |
-[Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                    | 6     | 8    | 12-18 | 20+    | 1.5-3     | 8-15                                |
-[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-size-training-tips)          | 3     | 4    | 10-16 | 18+    | 2-3       | 5-10 (hinge), 10-20 (leg curls)                              |
-[Calves](https://renaissanceperiodization.com/calves-training-tips-hypertrophy/)          | 6     | 8    | 12-16 | 20+    | 2-4       | 10-30                              |
+Body Part                                                                                  | MV[1] | MEV    | MAV   | MRV[2]          | Freq/week | Suggested reps                      |
+----------                                                                                 | ----  | ----   | ----  | ----            | ----      | ----                                |
+[Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)              | 0     | 0      | 12-20 | 20/30/35+       | 2-6       | 10-20                               |
+[Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 0     | 0      | 6-8   | 12/16+          | 1-2       | 6-10                                |
+[Side Delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)           | 0     | 8      | 16-22 | 25/30/35/40+    | 2-6       | 10-12                               |
+[Rear Delts](https://rpstrength.com/blogs/articles/rear-delt-size-training-tips)           | 0     | 6      | 16-22 | 18/25/30/35+    | 2-6       | 10-30                               |
+[Chest](https://renaissanceperiodization.com/chest-training-tips-hypertrophy/)             | 8     | 10     | 12-20 | 20/25/30/35+    | 1.5-3     | 8-12                                |
+[Back](https://renaissanceperiodization.com/back-training-tips-hypertrophy/)               | 6     | 10     | 14-22 | 20/25/30/35+    | 2-4       | 6-20                                |
+[Biceps](https://rpstrength.com/blogs/articles/bicep-training-tips-hypertrophy)            | 5     | 8      | 14-20 | 20/25/30/35+    | 2-6       | 8-15                                |
+[Triceps](https://rpstrength.com/blogs/articles/triceps-hypertrophy-training-tips/)        | 4     | 6      | 10-14 | 16/20/25/30+[3] | 2-4       | 6-15 (presses), 10-20  (extensions) |
+[Forearms](https://rpstrength.com/blogs/articles/forearm-growth-training-tips)             | 0     | 2      | 4-12  | 15/20/25+       | 2-5       | 5-30                                |
+[Abs](https://renaissanceperiodization.com/ab-training/)                                   | 0     | 0-6[4] | 16-20 | 10/20/25+       | 3-5       | 8-20                                |
+[Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)            | 0     | 0      | 4-12  | 12/18/25/30+[5] | 2-3       | 8-12                                |
+[Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 6     | 8      | 12-18 | 18/22/26/30[6]+ | 1.5-3     | 8-15                                |
+[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-size-training-tips)           | 3     | 4      | 10-16 | 12/16/18[5]+    | 2-3       | 5-10 (hinge), 10-20 (leg curls)     |
+[Calves](https://renaissanceperiodization.com/calves-training-tips-hypertrophy/)           | 6     | 8      | 12-16 | 16/20/25/30+    | 2-4       | 10-30                               |
+
 
 
 
@@ -46,7 +47,16 @@ Body Part                                                                       
 * triceps in overhead press
 * forearms with pull ups
 * glutes in squats
+ 
+[2] MRV for 2 days per week/ 3 days per week / etc. (with last value being maximum weekly MRV)  
 
+[3] Tricep MRV will be lower if you already do lot's of 'indirect' tricep work (dips, BP, OHP).
+
+[4] 0 sets if you go for a flat abs. 2 sets if you want' your rectus abdominus to pop out more (advantage: you'll see them at higher body fat percentage. Disadvantage: increased waist size, especially as seen from the side). 6 sets for those who have trained abs a lot before.  
+
+[5] Glute and hamstring MRV will be lower if you do heavy hip hinge variants. 
+
+[6] Quad MRV will be lower if you do heavy squat variants. 
 
 General suggestions: 
 * Session MAV is typically around 5-12 for most muscle groups. 
