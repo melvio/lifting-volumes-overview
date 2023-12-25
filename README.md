@@ -34,7 +34,7 @@ Forearms       | 0     | 2    | 4-12  | 15-25+ | 2-5       | 5-30 reps
 Abs            | 0     | 0    | 16-20 | 25+    | 3-5       | 8-20 reps
 Glutes         | 0     | 0    | 4-12  | 16+    | 2-3       | 8-12 reps
 Quads          | 6     | 8    | 12-18 | 20+    | 1.5-3     | 8-15 reps
-Hamstring      | 4     | 6    | 10-16 | 20+    | 2-3       | 70-85% 1RM
+Hamstring      | 3     | 4    | 10-16 | 18+    | 2-3       | 70-85% 1RM
 Calves         | 6     | 8    | 12-16 | 20+    | 2-4       | 60-70% 1RM
 
 
@@ -46,6 +46,7 @@ Calves         | 6     | 8    | 12-16 | 20+    | 2-4       | 60-70% 1RM
 * forearms with pull ups
 * glutes in squats
 
+Session MAV is typically around 6-10 for most muscle groups. 
 
 
 
