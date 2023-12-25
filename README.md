@@ -40,7 +40,7 @@ Body Part                                                                       
 
 
 
-Session MAV is typically around 6-10 for most muscle groups. 
+Session MAV is typically around 5-12 for most muscle groups. 
 
 
 [1] when 0, it is assumed you still hit these muscle groups with non-direct compound work, e.g.:
