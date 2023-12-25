@@ -22,7 +22,7 @@ Maximum Recoverable Volume (MRV) - The total amount of volume above which you st
 
 Body Part                                                                                 | MV[1] | MEV  | MAV   | MRV    | Freq/week | Suggested reps                                 |
 ----------                                                                                | ----  | ---- | ----  | ----   | ----      | ----                                    |
-[Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)             | 0     | 0    | 12-20 | 26+    | 2-6       | 10-20                               |
+[Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/){:target="_blank"}             | 0     | 0    | 12-20 | 26+    | 2-6       | 10-20                               |
 [Front Delts](https://renaissanceperiodization.com/front-delt-training-tips-hypertrophy/) | 0     | 0    | 6-8   | 12+    | 1-2       | 6-10                                |
 [Side Delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)          | 0     | 8    | 16-22 | 26+    | 2-6       | 10-12                               |
 [Rear Delts](https://rpstrength.com/blogs/articles/rear-delt-size-training-tips)          | 0     | 6    | 16-22 | 25+    | 2-6       | 10-30                               |
