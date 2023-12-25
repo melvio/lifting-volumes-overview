@@ -24,7 +24,8 @@ Body Part      | MV[1] | MEV  | MAV   | MRV    | Freq/week | Loading
  ----          | ----  | ---- | ----  | ----   | ----      | ----
 Traps          | 0     | 0    | 12-20 | 26+    | 2-6       | 10-20 reps
 Front Delts    | 0     | 0    | 6-8   | 12+    | 1-2       | 6-10 reps
-Rear/Side Delt | 0     | 8    | 16-22 | 26+    | 2-6       | 10-12 reps
+Side Delts     | 0     | 8    | 16-22 | 26+    | 2-6       | 10-12 reps
+Rear Delt      | 0     | 6    | 16-22 | 25+    | 2-6       | 10-30 reps
 Chest          | 8     | 10   | 12-20 | 22+    | 1.5-3     | 8-12 reps
 Back           | 8     | 10   | 14-22 | 25+    | 2-4       | 6-20 reps
 Biceps         | 5     | 8    | 14-20 | 26+    | 2-6       | 8-15 reps
@@ -37,7 +38,13 @@ Hamstring      | 4     | 6    | 10-16 | 20+    | 2-3       | 70-85% 1RM
 Calves         | 6     | 8    | 12-16 | 20+    | 2-4       | 60-70% 1RM
 
 
-[1] when 0, it is assumed you still hit these muscle groups by other compounds (e.g. front delts in bench press)
+[1] when 0, it is assumed you still hit these muscle groups with non-direct compound work, e.g.:
+* traps in deadlift
+* front delts in bench press
+* rear delts with bent over row
+* triceps in overhead press
+* forearms with pull ups
+* glutes in squats
 
 
 
