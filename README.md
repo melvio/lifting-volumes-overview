@@ -7,7 +7,6 @@
 ## volume definitions
 [Explanation Article](https://rpstrength.com/blogs/articles/training-volume-landmarks-muscle-growth)
 
-
 Maintenance Volume (MV) - How much volume you need to maintain your gains.
 
 Minimum Effective Volume (MEV) - The least amount of volume needed to make gains.
@@ -17,7 +16,7 @@ Maximum Adaptive Volume (MAV) - The range of volumes in which you make your best
 Maximum Recoverable Volume (MRV) - The total amount of volume above which you start impeding your progress. (i.e. above which you get negative return on investment)
 
 
-## Overview of typical volume landmarks
+## Overview of typical volume landmarks (for intermediate lifters)
 [Listing of all body parts](https://rpstrength.com/blogs/articles/hypertrophy-training-guide-central-hub)
 
 
@@ -40,9 +39,6 @@ Body Part                                                                       
 
 
 
-Session MAV is typically around 5-12 for most muscle groups. 
-
-
 [1] When maintenance volume is 0 sets, it is assumed you still hit these muscle groups with non-direct compound work, e.g.:
 * traps in deadlift
 * front delts in bench press
@@ -52,3 +48,6 @@ Session MAV is typically around 5-12 for most muscle groups.
 * glutes in squats
 
 
+General suggestions: 
+* Session MAV is typically around 5-12 for most muscle groups. 
+* For hypertrophy, the suggested load is between 30-85% of 1RM
