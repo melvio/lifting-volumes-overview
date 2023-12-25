@@ -35,7 +35,7 @@ Body Part                                                                       
 [Abs](https://renaissanceperiodization.com/ab-training/)                                  | 0     | 0    | 16-20 | 25+    | 3-5       | 8-20                                |
 [Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)           | 0     | 0    | 4-12  | 16+    | 2-3       | 8-12                                |
 [Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                    | 6     | 8    | 12-18 | 20+    | 1.5-3     | 8-15                                |
-[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-size-training-tips)          | 3     | 4    | 10-16 | 18+    | 2-3       | 5-10 (hinge), 10-20 (leg curls                              |
+[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-size-training-tips)          | 3     | 4    | 10-16 | 18+    | 2-3       | 5-10 (hinge), 10-20 (leg curls)                              |
 [Calves](https://renaissanceperiodization.com/calves-training-tips-hypertrophy/)          | 6     | 8    | 12-16 | 20+    | 2-4       | 10-30                              |
 
 
