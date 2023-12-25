@@ -20,7 +20,7 @@ Maximum Recoverable Volume (MRV) - The total amount of volume above which you st
 [Listing of all body parts](https://rpstrength.com/blogs/articles/hypertrophy-training-guide-central-hub)
 
 
-Body Part                                                                                  | MV[1] | MEV    | MAV   | MRV[2]          | Freq/week | Suggested reps                      |
+Body Part                                                                                  | MV[1] | MEV    | MAV   | MRV [2]         | Freq/week | Suggested reps                      |
 ----------                                                                                 | ----  | ----   | ----  | ----            | ----      | ----                                |
 [Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)              | 0     | 0      | 12-20 | 20/30/35+       | 2-6       | 10-20                               |
 [Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 0     | 0      | 6-8   | 12/16+          | 1-2       | 6-10                                |
@@ -33,8 +33,8 @@ Body Part                                                                       
 [Forearms](https://rpstrength.com/blogs/articles/forearm-growth-training-tips)             | 0     | 2      | 4-12  | 15/20/25+       | 2-5       | 5-30                                |
 [Abs](https://renaissanceperiodization.com/ab-training/)                                   | 0     | 0-6[4] | 16-20 | 10/20/25+       | 3-5       | 8-20                                |
 [Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)            | 0     | 0      | 4-12  | 12/18/25/30+[5] | 2-3       | 8-12                                |
-[Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 6     | 8      | 12-18 | 18/22/26/30[6]+ | 1.5-3     | 8-15                                |
-[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-size-training-tips)           | 3     | 4      | 10-16 | 12/16/18[5]+    | 2-3       | 5-10 (hinge), 10-20 (leg curls)     |
+[Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 6     | 8      | 12-18 | 18/22/26/30+[6] | 1.5-3     | 8-15                                |
+[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-size-training-tips)           | 3     | 4      | 10-16 | 12/16/18+[5]    | 2-3       | 5-10 (hinge), 10-20 (leg curls)     |
 [Calves](https://renaissanceperiodization.com/calves-training-tips-hypertrophy/)           | 6     | 8      | 12-16 | 16/20/25/30+    | 2-4       | 10-30                               |
 
 
@@ -48,7 +48,7 @@ Body Part                                                                       
 * forearms with pull ups
 * glutes in squats
  
-[2] MRV for 2 days per week/ 3 days per week / etc. (with last value being maximum weekly MRV)  
+[2] MRV for 2 days per week/ 3 days per week / etc. (with last value being maximum weekly MRV at highest weekly frequency)  
 
 [3] Tricep MRV will be lower if you already do lot's of 'indirect' tricep work (dips, BP, OHP).
 
