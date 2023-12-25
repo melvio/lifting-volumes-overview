@@ -25,7 +25,7 @@ Body Part      | MV[1] | MEV  | MAV   | MRV    | Freq/week | Loading
 Traps          | 0     | 0    | 12-20 | 26+    | 2-6       | 10-20 reps
 Front Delts    | 0     | 0    | 6-8   | 12+    | 1-2       | 6-10 reps
 Side Delts     | 0     | 8    | 16-22 | 26+    | 2-6       | 10-12 reps
-Rear Delt      | 0     | 6    | 16-22 | 25+    | 2-6       | 10-30 reps
+Rear Delts     | 0     | 6    | 16-22 | 25+    | 2-6       | 10-30 reps
 Chest          | 8     | 10   | 12-20 | 22+    | 1.5-3     | 8-12 reps
 Back           | 8     | 10   | 14-22 | 25+    | 2-4       | 6-20 reps
 Biceps         | 5     | 8    | 14-20 | 26+    | 2-6       | 8-15 reps
