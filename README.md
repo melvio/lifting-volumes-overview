@@ -60,7 +60,8 @@ Notes:
 
 [3] Bicep MRV will be lower if you already do lots of taxing pulling work.                       
 
-[4] Tricep MRV will be lower if you already do lots of 'indirect' tricep work (dips, BP, OHP).                                 
+[4] Tricep MRV will be lower if you already do lots of 'indirect' tricep work (dips, BP, OHP).        
+
 [5] 0 sets if you go for a flat abs. 2 sets if you haven't trained abs before and you want your rectus abdominus to 'pop out' (advantage: you'll see your abs at higher body fat percentage. Disadvantage: increased waist size, especially when seen from the side). 6 sets for those who have trained abs a lot before.                    
 
 [6] Glute and hamstring MRV will be lower if you do heavy hip hinge variants.                             
