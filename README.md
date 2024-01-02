@@ -29,7 +29,7 @@ A set typically counts as a **working set** when it is:
 [Listing of all body parts](https://rpstrength.com/blogs/articles/hypertrophy-training-guide-central-hub)
 
 
-Body Part/ Set volumes                                                                     | MV[1] | MEV    | MAV   | MRV [2]         | Freq/week | Suggested reps                      |
+Body Part Links                                                                            | MV[1] | MEV    | MAV   | MRV [2]         | Freq/week | Suggested reps                      |
 ----------                                                                                 | ----  | ----   | ----  | ----            | ----      | ----                                |
 [Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)              | 0     | 0      | 12-20 | 20/30/35+       | 2-6       | 10-20                               |
 [Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 0     | 0      | 6-8   | 12/16+          | 1-2       | 6-10                                |
