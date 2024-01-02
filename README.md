@@ -1,26 +1,35 @@
-# lifting-volumes-overview
+# lifting volumes
 
-
-
-
-
-## volume definitions
+## Volume definitions
 [Explanation Article](https://rpstrength.com/blogs/articles/training-volume-landmarks-muscle-growth)
 
 Maintenance Volume (MV) - How much volume you need to maintain your gains.
 
 Minimum Effective Volume (MEV) - The least amount of volume needed to make gains.
 
-Maximum Adaptive Volume (MAV) - The range of volumes in which you make your best gains. It’s a much more of a range than the other volume landmarks because it changes greatly within each training mesocycle (week to week).
+Maximum Adaptive Volume (MAV) - The range of volumes in which you make your best gains. MAV is much more of a range than the other volume landmarks because it changes greatly from week to week.
 
-Maximum Recoverable Volume (MRV) - The total amount of volume above which you start impeding your progress. (i.e. above which you get negative return on investment)
+Session MAV - MAV for 1 training session. Beyond this volume you may expect diminishing returns or even negative returns.   
+
+Maximum Recoverable Volume (MRV) - The total amount of volume above which you start impeding your progress. (i.e. above which you get negative return on sets.)
+
+## Volume units
+
+The above volumes are measured in **workings sets**.
+
+A set typically counts as a **working set** when it is:
+* Between 30% and 85% of 1RM  
+* Between 5 reps and 30 reps per set
+* Between 0 reps and 4 reps away from concentric failure (0 to 4 RIR, i.o.w. RPE 6-10)
 
 
-## Overview of typical volume landmarks (for intermediate lifters)
+## Volume Landmarks
+
+### Overview of typical volume landmarks (for intermediate lifters)
 [Listing of all body parts](https://rpstrength.com/blogs/articles/hypertrophy-training-guide-central-hub)
 
 
-Body Part Links                                                                            | MV[1] | MEV    | MAV   | MRV [2]         | Freq/week | Suggested reps                      |
+Body Part/ Set volumes                                                                     | MV[1] | MEV    | MAV   | MRV [2]         | Freq/week | Suggested reps                      |
 ----------                                                                                 | ----  | ----   | ----  | ----            | ----      | ----                                |
 [Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)              | 0     | 0      | 12-20 | 20/30/35+       | 2-6       | 10-20                               |
 [Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 0     | 0      | 6-8   | 12/16+          | 1-2       | 6-10                                |
@@ -38,28 +47,23 @@ Body Part Links                                                                 
 [Calves](https://renaissanceperiodization.com/calves-training-tips-hypertrophy/)           | 6     | 8      | 12-16 | 16/20/25/30+    | 2-4       | 10-30                               |
 
 
-
-
-[1] When maintenance volume is 0 sets, it is assumed you still hit these muscle groups with non-direct compound work, e.g.:
+Notes: 
+[1] When maintenance volume (MV) is 0 sets, it is assumed you still hit these muscle groups with non-direct compound work, e.g.:
 * traps in deadlift
 * front delts in bench press
 * rear delts with bent over row
 * triceps in overhead press
 * forearms with pull ups
 * glutes in squats
- 
-[2] MRV for 2 days per week/ 3 days per week / etc. (with last value being maximum weekly MRV at highest weekly frequency)  
-
+[2] Maximum Recoverable Volume (MRV) for `2 training days per week/ 3 training days per week / etc.` (with last value being maximum weekly MRV at highest weekly frequency)  
 [3] Bicep MRV will be lower if you already do lots of taxing pulling work  
-
 [4] Tricep MRV will be lower if you already do lots of 'indirect' tricep work (dips, BP, OHP).
-
-[5] 0 sets if you go for a flat abs. 2 sets if you want' your rectus abdominus to pop out more (advantage: you'll see them at higher body fat percentage. Disadvantage: increased waist size, especially as seen from the side). 6 sets for those who have trained abs a lot before.  
-
+[5] 0 sets if you go for a flat abs. 2 sets if you haven't trained abs before and you want your rectus abdominus to 'pop out' (advantage: you'll see your abs at higher body fat percentage. Disadvantage: increased waist size, especially when seen from the side). 6 sets for those who have trained abs a lot before.  
 [6] Glute and hamstring MRV will be lower if you do heavy hip hinge variants. 
-
 [7] Quad MRV will be lower if you do heavy squat variants. 
 
-General suggestions: 
-* Session MAV is typically around 5-12 for most muscle groups. 
-* For hypertrophy, the suggested load is between 30-85% of 1RM
+
+### Session MAV
+Session MAV is typically around 5-12 sets for most muscle groups. 
+
+
