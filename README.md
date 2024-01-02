@@ -47,23 +47,23 @@ Body Part Links                                                                 
 [Calves](https://renaissanceperiodization.com/calves-training-tips-hypertrophy/)           | 6     | 8      | 12-16 | 16/20/25/30+    | 2-4       | 10-30                               |
 
 
-Notes: 
+Notes:                    
 [1] When maintenance volume (MV) is 0 sets, it is assumed you still hit these muscle groups with non-direct compound work, e.g.:
 * traps in deadlift
 * front delts in bench press
 * rear delts with bent over row
 * triceps in overhead press
 * forearms with pull ups
-* glutes in squats
-[2] Maximum Recoverable Volume (MRV) for `2 training days per week/ 3 training days per week / etc.` (with last value being maximum weekly MRV at highest weekly frequency)  
-[3] Bicep MRV will be lower if you already do lots of taxing pulling work  
-[4] Tricep MRV will be lower if you already do lots of 'indirect' tricep work (dips, BP, OHP).
-[5] 0 sets if you go for a flat abs. 2 sets if you haven't trained abs before and you want your rectus abdominus to 'pop out' (advantage: you'll see your abs at higher body fat percentage. Disadvantage: increased waist size, especially when seen from the side). 6 sets for those who have trained abs a lot before.  
-[6] Glute and hamstring MRV will be lower if you do heavy hip hinge variants. 
-[7] Quad MRV will be lower if you do heavy squat variants. 
+* glutes in squats                     
+[2] Maximum Recoverable Volume (MRV) for `2 training days per week/ 3 training days per week / etc.` (with last value being maximum weekly MRV at highest weekly frequency).                         
+[3] Bicep MRV will be lower if you already do lots of taxing pulling work.                       
+[4] Tricep MRV will be lower if you already do lots of 'indirect' tricep work (dips, BP, OHP).                                 
+[5] 0 sets if you go for a flat abs. 2 sets if you haven't trained abs before and you want your rectus abdominus to 'pop out' (advantage: you'll see your abs at higher body fat percentage. Disadvantage: increased waist size, especially when seen from the side). 6 sets for those who have trained abs a lot before.                    
+[6] Glute and hamstring MRV will be lower if you do heavy hip hinge variants.                             
+[7] Quad MRV will be lower if you do heavy squat variants.                        
 
 
 ### Session MAV
-Session MAV is typically around 5-12 sets for most muscle groups. 
+Session MAV is typically around 5-12 working sets for most muscle groups.  
 
 
