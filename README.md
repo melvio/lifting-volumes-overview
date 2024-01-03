@@ -1,4 +1,4 @@
-# lifting volumes
+# lifting volumes (up to date as of 2024)
 
 ## Volume definitions
 [Explanation Article](https://rpstrength.com/blogs/articles/training-volume-landmarks-muscle-growth)
@@ -29,11 +29,13 @@ A set typically counts as a **working set** when it is:
 [Listing of all body parts](https://rpstrength.com/blogs/articles/hypertrophy-training-guide-central-hub)
 
 
+
+
 Body Part Links                                                                            | MV[1] | MEV    | MAV   | MRV [2]         | Freq/week | Suggested reps                      |
 ----------                                                                                 | ----  | ----   | ----  | ----            | ----      | ----                                |
 [Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)              | 0     | 0      | 12-20 | 20/30/35+       | 2-6       | 10-20                               |
 [Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 0     | 0      | 6-8   | 12/16+          | 1-2       | 6-10                                |
-[Side Delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)           | 0     | 8      | 16-22 | 25/30/35/40+    | 2-6       | 10-12                               |
+[Side Delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)           | 2-6   | 6-8    | 8-24  | 25/30/35/40+    | 2-6       | 10-12                               |
 [Rear Delts](https://rpstrength.com/blogs/articles/rear-delt-size-training-tips)           | 0     | 6      | 16-22 | 18/25/30/35+    | 2-6       | 10-30                               |
 [Chest](https://renaissanceperiodization.com/chest-training-tips-hypertrophy/)             | 4     | 6      | 12-20 | 20/25/30/35+    | 1.5-3     | 8-12                                |
 [Back](https://renaissanceperiodization.com/back-training-tips-hypertrophy/)               | 6     | 10     | 14-22 | 20/25/30/35+    | 2-4       | 6-20                                |
