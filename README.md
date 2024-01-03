@@ -3,15 +3,17 @@
 ## Volume definitions
 [Explanation Article](https://rpstrength.com/blogs/articles/training-volume-landmarks-muscle-growth)
 
-Maintenance Volume (MV) - How much volume you need to maintain your gains.
+term                                          | abbr. | definition
+ ---                                          | ---   | ---
+Maintenance Volume                            | MV    | How much volume you need to maintain your gains.
+Minimum Effective Volume                      | MEV   | The least amount of volume needed to make gains.
+Maximum Adaptive Volume                       | MAV   | The range of volumes in which you make your best gains. MAV is much more of a range than the other volume landmarks because it changes greatly from week to week.
+Session MAV                                   | .     | MAV for 1 training session. Beyond this volume you may expect diminishing returns or even negative returns.
+Maximum Recoverable Volume                    | MRV   | The total amount of volume above which you start impeding your progress. (i.e. above which you get negative return on sets.)
+.                                             |       |
+Maximum Adaptive Volume (Primary Priority)    | MAV*P | The average amount of training volume over time that is likely to lead to your best long term gains in muscle mass for a muscle if you prioritize its training and reduce the training for other muscles substantially, giving the primarily prioritized muscle more recovery and benefit from more training.
+Maximum Recoverable Volume (Primary Priority) | MRV*P | The maximum amount of volume you regularly train with and still barely recover from if you prioritize its training and reduce the training for other muscles substantially, giving the primarily prioritized muscle more resources to recover and benefit from more training. Doing more than this causes worse results.
 
-Minimum Effective Volume (MEV) - The least amount of volume needed to make gains.
-
-Maximum Adaptive Volume (MAV) - The range of volumes in which you make your best gains. MAV is much more of a range than the other volume landmarks because it changes greatly from week to week.
-
-Session MAV - MAV for 1 training session. Beyond this volume you may expect diminishing returns or even negative returns.   
-
-Maximum Recoverable Volume (MRV) - The total amount of volume above which you start impeding your progress. (i.e. above which you get negative return on sets.)
 
 ## Volume units
 
