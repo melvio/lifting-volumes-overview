@@ -8,7 +8,8 @@ term                                          | abbr. | definition
 Maintenance Volume                            | MV    | How much volume you need to maintain your gains.
 Minimum Effective Volume                      | MEV   | The least amount of volume needed to make gains.
 Maximum Adaptive Volume                       | MAV   | The range of volumes in which you make your best gains. MAV is much more of a range than the other volume landmarks because it changes greatly from week to week.
-Session MAV                                   | .     | MAV for 1 training session. Beyond this volume you may expect diminishing returns or even negative returns.
+.                                             |       |
+Session MAV                                   |       | MAV for 1 training session. Beyond this volume you may expect diminishing returns or even negative returns.
 Maximum Recoverable Volume                    | MRV   | The total amount of volume above which you start impeding your progress. (i.e. above which you get negative return on sets.)
 .                                             |       |
 Maximum Adaptive Volume (Primary Priority)    | MAV*P | The average amount of training volume over time that is likely to lead to your best long term gains in muscle mass for a muscle if you prioritize its training and reduce the training for other muscles substantially, giving the primarily prioritized muscle more recovery and benefit from more training.
@@ -17,38 +18,39 @@ Maximum Recoverable Volume (Primary Priority) | MRV*P | The maximum amount of vo
 
 ## Volume units
 
-The above volumes are measured in **workings sets**.
+The landmarkt volumes are measured in **workings sets**.
 
 A set typically counts as a **working set** when it is:
-* Between 30% and 85% of 1RM  
+* Between 30% and 85% of 1RM 
 * Between 5 reps and 30 reps per set
 * Between 0 reps and 4 reps away from concentric failure (0 to 4 RIR, i.o.w. RPE 6-10)
 
 
 ## Volume Landmarks
 
-### Overview of typical volume landmarks (for intermediate lifters)
+### Overview of typical volume landmarks 
 [Listing of all body parts](https://rpstrength.com/blogs/articles/hypertrophy-training-guide-central-hub)
 
+These volume landmarks are for intermediate and advanced lifters who have been training these muscle groups for ≥ 3-7 years.
 
 
 
-Body Part Links                                                                            | MV[1] | MEV    | MAV   | MRV [2]         | Freq/week | Suggested reps                      |
-----------                                                                                 | ----  | ----   | ----  | ----            | ----      | ----                                |
-[Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)              | 0     | 0      | 12-20 | 20/30/35+       | 2-6       | 10-20                               |
-[Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 0     | 0      | 6-8   | 12/16+          | 1-2       | 6-10                                |
-[Side Delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)           | 2-6   | 6-8    | 8-24  | 25/30/35/40+    | 2-6       | 10-12                               |
-[Rear Delts](https://rpstrength.com/blogs/articles/rear-delt-size-training-tips)           | 0     | 6      | 16-22 | 18/25/30/35+    | 2-6       | 10-30                               |
-[Chest](https://renaissanceperiodization.com/chest-training-tips-hypertrophy/)             | 4     | 6      | 12-20 | 20/25/30/35+    | 1.5-3     | 8-12                                |
-[Back](https://renaissanceperiodization.com/back-training-tips-hypertrophy/)               | 6     | 10     | 14-22 | 20/25/30/35+    | 2-4       | 6-20                                |
-[Biceps](https://rpstrength.com/blogs/articles/bicep-training-tips-hypertrophy)            | 4     | 8      | 14-20 | 20/25/30/35+[3] | 2-6       | 8-15                                |
-[Triceps](https://rpstrength.com/blogs/articles/triceps-hypertrophy-training-tips/)        | 4     | 6      | 10-14 | 16/20/25/30+[4] | 2-4       | 6-15 (presses), 10-20  (extensions) |
-[Forearms](https://rpstrength.com/blogs/articles/forearm-growth-training-tips)             | 0     | 2      | 2-8   | 15/20/25+       | 2-5       | 5-30                                |
-[Abs](https://renaissanceperiodization.com/ab-training/)                                   | 0     | 0-6[5] | 16-20 | 10/20/25+       | 3-5       | 8-20                                |
-[Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)            | 0     | 0      | 4-12  | 12/18/25/30+[6] | 2-3       | 8-12                                |
-[Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 6     | 8      | 12-18 | 18/22/26/30+[7] | 1.5-3     | 8-15                                |
-[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-size-training-tips)           | 3     | 4      | 10-16 | 12/16/18+[6]    | 2-3       | 5-10 (hinge), 10-20 (leg curls)     |
-[Calves](https://renaissanceperiodization.com/calves-training-tips-hypertrophy/)           | 6     | 8      | 12-16 | 16/20/25/30+    | 2-4       | 10-30                               |
+Body Part Links                                                                            | MV[1] | MEV    | MAV   | MRV [2]         | MAV*P | MRV*P  | Freq/week | Suggested reps                      |
+----------                                                                                 | ----  | ----   | ----  | ----            | ----  | ----   | ----      | ----                                |
+[Traps](https://renaissanceperiodization.com/trap-training-tips-hypertrophy/)              | 0-4   | 0-4    | 4-12  | 20/30/35+       | 16-24 | 24-32+ | 2-6       | 10-20                               |
+[Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 0-2   | 0-2    | 4-8   | 12/16+          | 12-16 | 16-20+ | 1-2       | 6-10                                |
+[Side Delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)           | 2-6   | 6-8    | 8-24  | 25/30/35/40+    | 24-30 | 30-40+ | 2-6       | 10-12                               |
+[Rear Delts](https://rpstrength.com/blogs/articles/rear-delt-size-training-tips)           | 0-4   | 0-4    | 4-12  | 18/25/30/35+    | 24-30 | 30-40+ | 2-6       | 10-30                               |
+[Chest](https://renaissanceperiodization.com/chest-training-tips-hypertrophy/)             | 2-4   | 4-6    | 6-16  | 20/25/30/35+    | 16-24 | 24-32+ | 1.5-3     | 8-12                                |
+[Back](https://renaissanceperiodization.com/back-training-tips-hypertrophy/)               | 2-6   | 6-8    | 8-20  | 20/25/30/35+    | 20-26 | 26-34+ | 2-4       | 6-20                                |
+[Biceps](https://rpstrength.com/blogs/articles/bicep-training-tips-hypertrophy)            | 0-4   | 4-8    | 8-20  | 20/25/30/35+[3] | 20-26 | 26-34+ | 2-6       | 8-15                                |
+[Triceps](https://rpstrength.com/blogs/articles/triceps-hypertrophy-training-tips/)        | 0-4   | 4-6    | 6-16  | 16/20/25/30+[4] | 16-20 | 20-26+ | 2-4       | 6-15 (presses), 10-20  (extensions) |
+[Forearms](https://rpstrength.com/blogs/articles/forearm-growth-training-tips)             | 0-4   | 0-8    | 8-24  | 15/20/25+       | 24-30 | 24-30+ | 2-5       | 5-30                                |
+[Abs](https://renaissanceperiodization.com/ab-training/)                                   | 0     | 0-6[5] | 16-20 | 10/20/25+       | unkn. | unkn.  | 3-5       | 8-20                                |
+[Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)            | 2-6   | 6-8    | 8-24  | 12/18/25/30+[6] | 24-30 | 30-40+ | 2-3       | 8-12                                |
+[Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 2-4   | 4-6    | 6-14  | 18/22/26/30+[7] | 10-18 | 18-24+ | 1.5-3     | 8-15                                |
+[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-hypertrophy-training-tips)    | 2-4   | 4-6    | 6-12  | 12/16/18+[6]    | 12-16 | 16-20+ | 2-3       | 5-10 (hinge), 10-20 (leg curls)     |
+[Calves](https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips)           | 6     | 8      | 12-16 | 16/20/25/30+    |       | +      | 2-4       | 10-30                               |
 
 
 Notes:                    
@@ -75,5 +77,9 @@ Notes:
 
 ### Session MAV
 Session MAV is typically around 5-12 working sets for most muscle groups.  
+
+
+## notes
+03-01-2024: The calves page is broken https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips
 
 
