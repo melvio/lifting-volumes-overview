@@ -50,7 +50,7 @@ Body Part Links                                                                 
 [Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)            | 2-6       | 6-8        | 8-24  | 12/18/25/30+<br>[6] | 24-30 | 30-40+ | 2-3       | 8-12                                   |
 [Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 2-4       | 4-6        | 6-14  | 18/22/26/30+<br>[7] | 10-18 | 18-24+ | 1.5-3     | 8-15                                   |
 [Hamstrings](https://rpstrength.com/blogs/articles/hamstring-hypertrophy-training-tips)    | 2-4       | 4-6        | 6-12  | 12/16/18+<br>[6]    | 12-16 | 16-20+ | 2-3       | 5-10 (hinge),<br> 10-20 (leg curls)    |
-[Calves](https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips)           | 6         | 8          | 12-16 | 16/20/25/30+        | unkn. | unkn.  | 2-4       | 10-30                                  |
+[Calves](https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips)<br>[9]    | 6         | 8          | 12-16 | 16/20/25/30+        | 16-24 | 24-32+ | 2-4       | 10-30                                  |
 
 
 Notes:                    
@@ -73,6 +73,8 @@ Notes:
 [6] Glute and hamstring MRV will be lower if you do heavy hip hinge variants.                             
 
 [7] Quad MRV will be lower if you do heavy squat variants.                        
+
+[8] Anecdotally(!), pausing in the stretched position stimulates calve hypertrophy. The suggested(!) mechanism is that this reduces the elastic strain energy in the achilles tendon such that the calve muscles have to do the mechanical work.   
 
 
 ### Session Maximum Adaptive Volume (Session MAV)
