@@ -9,7 +9,7 @@ Maintenance Volume                            | MV    | How much volume you need
 Minimum Effective Volume                      | MEV   | The least amount of volume needed to make gains.
 Maximum Adaptive Volume                       | MAV   | The range of volumes in which you make your best gains. MAV is much more of a range than the other volume landmarks because it changes greatly from week to week.
 .                                             |       |
-Session MAV                                   |       | MAV for 1 training session. Beyond this volume you may expect diminishing returns or even negative returns.
+Session Maximum Adaptive Volume               |       | MAV for 1 training session. Beyond this volume you may expect diminishing returns or even negative returns.
 Maximum Recoverable Volume                    | MRV   | The total amount of volume above which you start impeding your progress. (i.e. above which you get negative return on sets.)
 .                                             |       |
 Maximum Adaptive Volume (Primary Priority)    | MAV*P | The average amount of training volume over time that is likely to lead to your best long term gains in muscle mass for a muscle if you prioritize its training and reduce the training for other muscles substantially, giving the primarily prioritized muscle more recovery and benefit from more training.
@@ -75,8 +75,8 @@ Notes:
 [7] Quad MRV will be lower if you do heavy squat variants.                        
 
 
-### Session MAV
-Session MAV is typically around 5-12 working sets for most muscle groups.  
+### Session Maximum Adaptive Volume (Session MAV)
+Session MAV is typically around 5-12 working sets for most muscle groups. Beyond this volume you are more likely to see diminishing and even negative returns. As a rule of thumb, limit your volume per body part to 10 direct sets per training session.  
 
 
 ## notes
