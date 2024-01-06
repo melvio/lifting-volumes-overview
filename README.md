@@ -79,7 +79,4 @@ Notes:
 Session MAV is typically around 5-12 working sets for most muscle groups. Beyond this volume you are more likely to see diminishing and even negative returns. As a rule of thumb, limit your volume per body part to 10 direct sets per training session.  
 
 
-## notes
-03-01-2024: The calves page is broken https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips
-
 
