@@ -12,7 +12,7 @@ Maximum Adaptive Volume                       | MAV   | The range of volumes in 
 Session Maximum Adaptive Volume               |       | MAV for 1 training session. Beyond this volume you may expect diminishing returns or even negative returns.
 Maximum Recoverable Volume                    | MRV   | The total amount of volume above which you start impeding your progress. (i.e. above which you get negative return on sets.)
 .                                             |       |
-Maximum Adaptive Volume (Primary Priority)    | MAV*P | The average amount of training volume over time that is likely to lead to your best long term gains in muscle mass for a muscle if you prioritize its training and reduce the training for other muscles substantially, giving the primarily prioritized muscle more recovery and benefit from more training.
+Maximum Adaptive Volume (Primary Priority)    | MAV*P | The training volume over time that likely leads to your best long term hypertrophy for a muscle if you prioritize its training and reduce the training for other muscles substantially, benefitting the primarily prioritized muscle more.
 Maximum Recoverable Volume (Primary Priority) | MRV*P | The maximum amount of volume you regularly train with and still barely recover from if you prioritize its training and reduce the training for other muscles substantially, giving the primarily prioritized muscle more resources to recover and benefit from more training. Doing more than this causes worse results.
 
 
