@@ -46,7 +46,7 @@ Body Part Links                                                                 
 [Biceps](https://rpstrength.com/blogs/articles/bicep-training-tips-hypertrophy)            | 0-4       | 4-8        | 8-20  | 20/25/30/35+<br>[3] | 20-26 | 26-34+ | 2-6       | 8-15                                   |
 [Triceps](https://rpstrength.com/blogs/articles/triceps-hypertrophy-training-tips/)        | 0-4       | 4-6        | 6-16  | 16/20/25/30+<br>[4] | 16-20 | 20-26+ | 2-4       | 6-15 (presses),<br> 10-20 (extensions) |
 [Forearms](https://rpstrength.com/blogs/articles/forearm-growth-training-tips)             | 0-4       | 0-8        | 8-24  | 15/20/25+           | 24-30 | 24-30+ | 2-5       | 5-30                                   |
-[Abs](https://renaissanceperiodization.com/ab-training/)                                   | 0         | 0-6<br>[5] | 16-20 | 10/20/25+           | unkn. | unkn.  | 3-5       | 8-20                                   |
+[Abs](https://rpstrength.com/blogs/articles/ab-hypertrophy-training-tips)                  | 0-4       | 0-4<br>[5] | 4-12  | 10/20/25+           | 16-24 | 24-32+ | 3-5       | 8-20                                   |
 [Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)            | 2-6       | 6-8        | 8-24  | 12/18/25/30+<br>[6] | 24-30 | 30-40+ | 2-3       | 8-12                                   |
 [Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 2-4       | 4-6        | 6-14  | 18/22/26/30+<br>[7] | 10-18 | 18-24+ | 1.5-3     | 8-15                                   |
 [Hamstrings](https://rpstrength.com/blogs/articles/hamstring-hypertrophy-training-tips)    | 2-4       | 4-6        | 6-12  | 12/16/18+<br>[6]    | 12-16 | 16-20+ | 2-3       | 5-10 (hinge),<br> 10-20 (leg curls)    |
@@ -68,7 +68,7 @@ Notes:
 
 [4] Tricep MRV will be lower if you already do lots of 'indirect' tricep work (dips, BP, OHP).        
 
-[5] 0 sets if you go for a flat abs. 2 sets if you haven't trained abs before and you want your rectus abdominus to 'pop out' (advantage: you'll see your abs at higher body fat percentage. Disadvantage: increased waist size, especially when seen from the side). 6 sets for those who have trained abs a lot before.                    
+[5] 0 sets if you go for a flat abs. 2 sets if you haven't trained abs before and you want your rectus abdominus to 'pop out' (advantage: you'll see your abs at higher body fat percentage. Disadvantage: increased waist size, especially when seen from the side). 4 sets for those who have trained abs a lot before.                    
 
 [6] Glute and hamstring MRV will be lower if you do heavy hip hinge variants.                             
 
