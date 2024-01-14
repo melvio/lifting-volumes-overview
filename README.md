@@ -7,9 +7,9 @@ term                                          | abbr. | definition
  ---                                          | ---   | ---
 Maintenance Volume                            | MV    | How much volume you need to maintain your gains.
 Minimum Effective Volume                      | MEV   | The least amount of volume needed to make gains.
-Maximum Adaptive Volume                       | MAV   | The range of volumes in which you make your best gains. MAV is much more of a range than the other volume landmarks because it changes greatly from week to week.
+Maximum Adaptive Volume                       | MAV   | The range of volumes in which you make your best gains. MAV is more of a range than the other volume landmarks because it changes more from week to week.
 .                                             |       |
-Session Maximum Adaptive Volume               |       | MAV for 1 training session. Beyond this volume you may expect diminishing returns or even negative returns.
+Session Maximum Adaptive Volume               |       | MAV for 1 training session. Beyond session MAV you may expect diminishing returns or even negative returns.
 Maximum Recoverable Volume                    | MRV   | The total amount of volume above which you start impeding your progress. (i.e. above which you get negative return on sets.)
 .                                             |       |
 Maximum Adaptive Volume (Primary Priority)    | MAV*P | The volume that leads to your best long term hypertrophy for a muscle if you prioritize its training and reduce the training for other muscles substantially, benefiting the primarily prioritized muscle more.
