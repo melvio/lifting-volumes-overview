@@ -74,7 +74,7 @@ Notes:
 
 [7] Quad MRV will be lower if you do heavy squat variants.                        
 
-[8] Anecdotally(!), pausing in the stretched position stimulates calve hypertrophy. The suggested(!) mechanism is that this reduces the elastic strain energy in the achilles tendon such that the calve muscles have to do the mechanical work.   
+[8] Anecdotally(!), pausing in the stretched position stimulates calve hypertrophy. The suggested(!) mechanism is a reduction in achilles tendon elastic strain energy such that the calve muscles have to do more mechanical work.   
 
 
 ### Session Maximum Adaptive Volume (Session MAV)
