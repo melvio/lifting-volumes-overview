@@ -47,7 +47,7 @@ Body Part Links                                                                 
 [Biceps](https://rpstrength.com/blogs/articles/bicep-training-tips-hypertrophy)            | 0-4       | 4-8  | 8-20 | 20-26<br>[2] | 20-26 | 26-34+ | 2-6        | 8-15                                  |
 [Triceps](https://rpstrength.com/blogs/articles/triceps-hypertrophy-training-tips/)        | 0-4       | 4-6  | 6-16 | 16-20<br>[3] | 16-20 | 20-26+ | 2-4        | 6-15 (presses),<br>10-20 (extensions) |
 [Forearms](https://rpstrength.com/blogs/articles/forearm-growth-training-tips)             | 0-4       | 0-8  | 8-24 | 24-30        | 24-30 | 30-40+ | 2-5        | 5-30                                  |
-[Abs](https://rpstrength.com/blogs/articles/ab-hypertrophy-training-tips)                  | 0-4       | 0-4  | 4-12 | 12-20<br>[4] | 16-24 | 24-32+ | 3-5        | 8-20                                  |
+[Abs](https://rpstrength.com/blogs/articles/ab-hypertrophy-training-tips)<br>[4]           | 0-4       | 0-4  | 4-12 | 12-20        | 16-24 | 24-32+ | 3-5        | 8-20                                  |
 [Glutes](https://rpstrength.com/blogs/articles/glute-hypertrophy-training-tips)            | 2-6       | 6-8  | 8-24 | 24-30<br>[5] | 24-30 | 30-40+ | 2-3        | 8-12                                  |
 [Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 2-4       | 4-6  | 6-14 | 14-18<br>[6] | 10-18 | 18-24+ | 1.5-3      | 8-15                                  |
 [Hamstrings](https://rpstrength.com/blogs/articles/hamstring-hypertrophy-training-tips)    | 0-2       | 2-4  | 2-8  | 8 -14<br>[5] | 8 -14 | 14-20  | 2-3        | 5-10 (hinge),<br>10-20 (leg curls)    |
