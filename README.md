@@ -68,7 +68,10 @@ Notes:
 
 [3] Tricep MRV will be lower if you already do lots of 'indirect' tricep work (dips, BP, OHP).        
 
-[4] 0 sets if you go for a flat abs. 2 sets if you haven't trained abs before and you want your rectus abdominus to 'pop out' (advantage: you'll see your abs at higher body fat percentage. Disadvantage: increased waist size, especially when seen from the side). 4 sets for those who have trained abs a lot before.                    
+[4]:
+* 0 sets if you go for a flat abs. 
+* 2 sets if you haven't trained abs before and you want your rectus abdominus to 'pop out' (advantage: you'll see your abs at higher body fat percentage. Disadvantage: increased waist size, especially when seen from the side).
+* 4 sets for those who have trained abs a lot before.                    
 
 [5] Glute and hamstring MRV will be lower if you do heavy hip hinge variants.                             
 
