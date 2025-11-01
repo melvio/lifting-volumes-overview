@@ -102,7 +102,7 @@ Body Part Links                                                                 
 [Glutes](https://rpstrength.com/blogs/articles/glute-hypertrophy-training-tips)            | 5-12  | 12    | 18    | 25    | 30+   |
 [Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 5-12  | 18    | 22    | 26    | 30+   |
 [Hamstrings](https://rpstrength.com/blogs/articles/hamstring-hypertrophy-training-tips)    | 5-12  | 12    | 16    | 18+   | -     |
-[Calves](https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips)<br>[7]    | 5-12  | 16    | 20    | 25    | 30+   |
+[Calves](https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips)           | 5-12  | 16    | 20    | 25    | 30+   |
 
 
 
