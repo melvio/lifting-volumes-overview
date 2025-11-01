@@ -36,22 +36,23 @@ These volume landmarks are for intermediate and advanced lifters who have been t
 
 
 
-Body Part Links                                                                            | MV<br>[1] | MEV  | MAV  | MRV          | MRV_2 | MRV_3 | MRV_4 | MRV_5 | MAV*P | MRV*P  | Freq./week | Suggested Reps                        |
-----------                                                                                 | ----      | ---- | ---- | ----         | ----  | ----  | ----  | ----  | ----  | ----   | -----      | -----                                 |
-[Traps](https://rpstrength.com/blogs/articles/trap-hypertrophy-training-tips)              | 0-4       | 0-4  | 4-12 | 12-20        | 20    | 30    | 35+   | -     | 16-24 | 24-32+ | 2-6        | 10-20                                 |
-[Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 0-2       | 0-2  | 4-8  | 8 -12        | 12    | 16+   | -     | -     | 12-16 | 16-20+ | 1-2        | 6-10                                  |
-[Side Delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)           | 2-6       | 6-8  | 8-24 | 24-30        | 25    | 30    | 35    | 40+   | 24-30 | 30-40+ | 2-6        | 10-12                                 |
-[Rear Delts](https://rpstrength.com/blogs/articles/rear-delt-size-training-tips)           | 0-4       | 0-4  | 4-12 | 12-20        | 18    | 25    | 30    | 35+   | 24-30 | 30-40+ | 2-6        | 10-30                                 |
-[Chest](https://rpstrength.com/blogs/articles/chest-hypertrophy-training-tips)             | 2-4       | 4-6  | 6-16 | 16-24        | 20    | 25    | 30    | 35+   | 16-24 | 24-32+ | 1.5-3      | 8-12                                  |
-[Back](https://rpstrength.com/blogs/articles/back-hypertrophy-training-tips)               | 2-6       | 6-8  | 8-20 | 20-26        | 20    | 25    | 30    | 35+   | 20-26 | 26-34+ | 2-4        | 6-20                                  |
-[Biceps](https://rpstrength.com/blogs/articles/bicep-training-tips-hypertrophy)            | 0-4       | 4-8  | 8-20 | 20-26<br>[2] | 20    | 25    | 30    | 35+   | 20-26 | 26-34+ | 2-6        | 8-15                                  |
-[Triceps](https://rpstrength.com/blogs/articles/triceps-hypertrophy-training-tips/)        | 0-4       | 4-6  | 6-16 | 16-20<br>[3] | 16    | 20    | 25    | 30+   | 16-20 | 20-26+ | 2-4        | 6-15 (presses),<br>10-20 (extensions) |
-[Forearms](https://rpstrength.com/blogs/articles/forearm-growth-training-tips)             | 0-4       | 0-8  | 8-24 | 24-30        | 15    | 20    | 25+   | -     | 24-30 | 30-40+ | 2-5        | 5-30                                  |
-[Abs](https://rpstrength.com/blogs/articles/ab-hypertrophy-training-tips)                  | 0-4       | 0-4  | 4-12 | 12-20<br>[4] | 10    | 20    | 25+   | -     | 16-24 | 24-32+ | 3-5        | 8-20                                  |
-[Glutes](https://rpstrength.com/blogs/articles/glute-hypertrophy-training-tips)            | 2-6       | 6-8  | 8-24 | 24-30<br>[5] | 12    | 18    | 25    | 30+   | 24-30 | 30-40+ | 2-3        | 8-12                                  |
-[Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 2-4       | 4-6  | 6-14 | 14-18<br>[6] | 18    | 22    | 26    | 30+   | 10-18 | 18-24+ | 1.5-3      | 8-15                                  |
-[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-hypertrophy-training-tips)    | 0-2       | 2-4  | 2-8  | 8 -14<br>[5] | 12    | 16    | 18+   | -     | 8 -14 | 14-20  | 2-3        | 5-10 (hinge),<br>10-20 (leg curls)    |
-[Calves](https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips)<br>[7]    | 2-4       | 4-6  | 6-16 | 16-24        | 16    | 20    | 25    | 30+   | 16-24 | 24-32+ | 2-4        | 10-30                                 |
+Body Part Links                                                                            | MV<br>[1] | MEV  | MAV  | MRV          | MAV*P | MRV*P  | Freq./week | Suggested Reps                        |
+----------                                                                                 | ----      | ---- | ---- | ----         | ----  | ----   | -----      | -----                                 |
+[Traps](https://rpstrength.com/blogs/articles/trap-hypertrophy-training-tips)              | 0-4       | 0-4  | 4-12 | 12-20        | 16-24 | 24-32+ | 2-6        | 10-20                                 |
+[Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 0-2       | 0-2  | 4-8  | 8 -12        | 12-16 | 16-20+ | 1-2        | 6-10                                  |
+[Side Delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)           | 2-6       | 6-8  | 8-24 | 24-30        | 24-30 | 30-40+ | 2-6        | 10-12                                 |
+[Rear Delts](https://rpstrength.com/blogs/articles/rear-delt-size-training-tips)           | 0-4       | 0-4  | 4-12 | 12-20        | 24-30 | 30-40+ | 2-6        | 10-30                                 |
+[Chest](https://rpstrength.com/blogs/articles/chest-hypertrophy-training-tips)             | 2-4       | 4-6  | 6-16 | 16-24        | 16-24 | 24-32+ | 1.5-3      | 8-12                                  |
+[Back](https://rpstrength.com/blogs/articles/back-hypertrophy-training-tips)               | 2-6       | 6-8  | 8-20 | 20-26        | 20-26 | 26-34+ | 2-4        | 6-20                                  |
+[Biceps](https://rpstrength.com/blogs/articles/bicep-training-tips-hypertrophy)            | 0-4       | 4-8  | 8-20 | 20-26<br>[2] | 20-26 | 26-34+ | 2-6        | 8-15                                  |
+[Triceps](https://rpstrength.com/blogs/articles/triceps-hypertrophy-training-tips/)        | 0-4       | 4-6  | 6-16 | 16-20<br>[3] | 16-20 | 20-26+ | 2-4        | 6-15 (presses),<br>10-20 (extensions) |
+[Forearms](https://rpstrength.com/blogs/articles/forearm-growth-training-tips)             | 0-4       | 0-8  | 8-24 | 24-30        | 24-30 | 30-40+ | 2-5        | 5-30                                  |
+[Abs](https://rpstrength.com/blogs/articles/ab-hypertrophy-training-tips)                  | 0-4       | 0-4  | 4-12 | 12-20<br>[4] | 16-24 | 24-32+ | 3-5        | 8-20                                  |
+[Glutes](https://rpstrength.com/blogs/articles/glute-hypertrophy-training-tips)            | 2-6       | 6-8  | 8-24 | 24-30<br>[5] | 24-30 | 30-40+ | 2-3        | 8-12                                  |
+[Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 2-4       | 4-6  | 6-14 | 14-18<br>[6] | 10-18 | 18-24+ | 1.5-3      | 8-15                                  |
+[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-hypertrophy-training-tips)    | 0-2       | 2-4  | 2-8  | 8 -14<br>[5] | 8 -14 | 14-20  | 2-3        | 5-10 (hinge),<br>10-20 (leg curls)    |
+[Calves](https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips)<br>[7]    | 2-4       | 4-6  | 6-16 | 16-24        | 16-24 | 24-32+ | 2-4        | 10-30                                 |
+
 
 
 Notes:                    
@@ -76,8 +77,32 @@ Notes:
 [7] Anecdotally(!), pausing in the stretched position stimulates calve hypertrophy. The suggested(!) mechanism is a reduction in achilles tendon elastic strain energy such that the calve muscles have to do more mechanical work.   
 
 
-### Session Maximum Adaptive Volume (Session MAV)
-Session MAV is typically around 5-12 working sets for most muscle groups. Beyond this volume you are more likely to see diminishing and even negative returns. As a rule of thumb, limit your volume per body part to 10 direct sets per training session.  
+### Session Maximum Adaptive Volume (Session MAV) & MRV for given number of training days per week 
+Session MAV is typically around 5-12 working sets for most muscle groups. 
+Beyond this volume you are more likely to see diminishing and even negative returns. 
+As a rule of thumb, limit your volume per body part to 10 direct sets per training session.  
+
+
+
+Body Part Links                                                                            | MRV_1 | MRV_2 | MRV_3 | MRV_4 | MRV_5 |
+----------                                                                                 | ----  | ----  | ----  | ----  | ----  |
+[Traps](https://rpstrength.com/blogs/articles/trap-hypertrophy-training-tips)              | 5-12  | 20    | 30    | 35+   | -     |
+[Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 5-12  | 12    | 16+   | -     | -     |
+[Side Delts](https://rpstrength.com/blogs/articles/side-delt-size-training-tips)           | 5-12  | 25    | 30    | 35    | 40+   |
+[Rear Delts](https://rpstrength.com/blogs/articles/rear-delt-size-training-tips)           | 5-12  | 18    | 25    | 30    | 35+   |
+[Chest](https://rpstrength.com/blogs/articles/chest-hypertrophy-training-tips)             | 5-12  | 20    | 25    | 30    | 35+   |
+[Back](https://rpstrength.com/blogs/articles/back-hypertrophy-training-tips)               | 5-12  | 20    | 25    | 30    | 35+   |
+[Biceps](https://rpstrength.com/blogs/articles/bicep-training-tips-hypertrophy)            | 5-12  | 20    | 25    | 30    | 35+   |
+[Triceps](https://rpstrength.com/blogs/articles/triceps-hypertrophy-training-tips/)        | 5-12  | 16    | 20    | 25    | 30+   |
+[Forearms](https://rpstrength.com/blogs/articles/forearm-growth-training-tips)             | 5-12  | 15    | 20    | 25+   | -     |
+[Abs](https://rpstrength.com/blogs/articles/ab-hypertrophy-training-tips)                  | 5-12  | 10    | 20    | 25+   | -     |
+[Glutes](https://rpstrength.com/blogs/articles/glute-hypertrophy-training-tips)            | 5-12  | 12    | 18    | 25    | 30+   |
+[Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 5-12  | 18    | 22    | 26    | 30+   |
+[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-hypertrophy-training-tips)    | 5-12  | 12    | 16    | 18+   | -     |
+[Calves](https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips)<br>[7]    | 5-12  | 16    | 20    | 25    | 30+   |
+
+
+
 
 
 
