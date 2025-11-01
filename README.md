@@ -1,4 +1,4 @@
-# lifting volumes (up to date as of 2024)
+# lifting volumes (up to date as of 2025)
 
 ## Volume definitions
 [Explanation Article](https://rpstrength.com/blogs/articles/training-volume-landmarks-muscle-growth)
@@ -49,7 +49,7 @@ Body Part Links                                                                 
 [Abs](https://rpstrength.com/blogs/articles/ab-hypertrophy-training-tips)                  | 0-4       | 0-4<br>[5] | 4-12  | 10/20/25+           | 16-24 | 24-32+ | 3-5       | 8-20                                   |
 [Glutes](https://renaissanceperiodization.com/glute-training-tips-hypertrophy/)            | 2-6       | 6-8        | 8-24  | 12/18/25/30+<br>[6] | 24-30 | 30-40+ | 2-3       | 8-12                                   |
 [Quads](https://rpstrength.com/blogs/articles/quad-size-training-tips)                     | 2-4       | 4-6        | 6-14  | 18/22/26/30+<br>[7] | 10-18 | 18-24+ | 1.5-3     | 8-15                                   |
-[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-hypertrophy-training-tips)    | 2-4       | 4-6        | 6-12  | 12/16/18+<br>[6]    | 12-16 | 16-20+ | 2-3       | 5-10 (hinge),<br> 10-20 (leg curls)    |
+[Hamstrings](https://rpstrength.com/blogs/articles/hamstring-hypertrophy-training-tips)    | 0-2       | 2-4        | 2-8   | 12/16/18+<br>[6]    | 8-14  | 14-20  | 2-3       | 5-10 (hinge),<br> 10-20 (leg curls)    |
 [Calves](https://rpstrength.com/blogs/articles/calves-hypertrophy-training-tips)<br>[8]    | 2-4       | 4-6        | 6-16  | 16/20/25/30+        | 16-24 | 24-32+ | 2-4       | 10-30                                  |
 
 
