@@ -36,7 +36,7 @@ These volume landmarks are for intermediate and advanced lifters who have been t
 
 
 
-Body Part Links                                                                            | MV<br>[1] | MEV  | MAV  | MRV          | MAV*P | MRV*P  | Freq./week | Suggested Reps                        |
+Body Part Links                                                                            | MV<br>[1] | MEV  | MAV  | MRV          | MAV*P | MRV*P  | Freq./week | Suggested Reprange                    |
 ----------                                                                                 | ----      | ---- | ---- | ----         | ----  | ----   | -----      | -----                                 |
 [Traps](https://rpstrength.com/blogs/articles/trap-hypertrophy-training-tips)              | 0-4       | 0-4  | 4-12 | 12-20        | 16-24 | 24-32+ | 2-6        | 10-20                                 |
 [Front Delts](https://rpstrength.com/blogs/articles/front-delt-training-tips-hypertrophy/) | 0-2       | 0-2  | 4-8  | 8 -12        | 12-16 | 16-20+ | 1-2        | 6-10                                  |
